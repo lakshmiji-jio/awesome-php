@@ -217,6 +217,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Retrofit](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
 * [Symfony HTTP Client](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
 * [zend-diactoros](https://github.com/zendframework/zend-diactoros) - PSR-7 HTTP Message implementation.
+* [lezhnev74/openapi-psr7-validator](https://github.com/lezhnev74/openapi-psr7-validator) - It validates PSR-7 messages (HTTP request/response) against OpenAPI specifications
 
 ### Scraping
 *Libraries for scraping websites.*
