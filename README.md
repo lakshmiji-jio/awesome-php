@@ -837,6 +837,7 @@ Libraries to help manage database schemas and migrations.
 * [Lando](https://lando.dev/) - Push-button development environments.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel. 
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
+* [DockerStacks](https://docker-stacks.com/) - A Laradock GUI.
 * [Puppet](https://puppet.com/) - A server automation framework and application.
 * [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
